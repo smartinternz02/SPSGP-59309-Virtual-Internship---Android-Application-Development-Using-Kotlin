@@ -16,3 +16,9 @@ Name - VEPULA PRAMOD KUMAR
 -[Screenshots](https://drive.google.com/drive/folders/1WI9nEJE26C1VZ2zvFOmsYAfh_jubQgfT?usp=sharing)
 
 ![](Grocery_App/imagess/Screenshot%20(1).png)
+
+![](Grocery_App/imagess/Screenshot%20(2).png)
+
+![](Grocery_App/imagess/Screenshot%20(3).png)
+
+![](Grocery_App/imagess/Screenshot%20(4).png)
