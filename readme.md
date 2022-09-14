@@ -1,10 +1,10 @@
 
 # SPSGP-59309-Virtual-Internship---Android-Application-Development-Using-Kotlin
-
+Name - VEPULA PRAMOD KUMAR
 
 ## Grocery App
 
-
+-[GOOGLE DEVELOPERS PROFILE](https://g.dev/pramod16)
 
 
 ## Links
@@ -13,5 +13,5 @@
  
 ## Screenshots
 
-
+-[Screenshots](https://drive.google.com/drive/folders/1WI9nEJE26C1VZ2zvFOmsYAfh_jubQgfT?usp=sharing)
 
